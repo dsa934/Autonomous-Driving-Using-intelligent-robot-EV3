@@ -35,6 +35,7 @@ By examining and improving various problems encountered in the process of comple
 * S/W
   - OpenCV : Use for webcam control
   - ev3dev : Adopted for control compatibility in the existing 'Robot.c'.
+  - MobaXterm : A tool that allows you to access your system remotely
   - Rpyc Package : Used for development of linux and window os integrated environment
   - Google Cloud Vision : Using open source neural networks provided by Google for image recognition
 
