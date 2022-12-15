@@ -3,7 +3,7 @@ Implementation of simulated autonomous driving experiments using EV3
 
 
 ## Summary
-<img src=https://user-images.githubusercontent.com/83410590/207788875-bfee59a5-9c5e-414b-9684-3c4520bbadfd.PNG width='440' height='250'/> <img src=https://user-images.githubusercontent.com/83410590/207792641-37cbe897-92c5-426b-9f6a-d40394698d3d.PNG width="440" height="250"/>
+<img src=https://user-images.githubusercontent.com/83410590/207788875-bfee59a5-9c5e-414b-9684-3c4520bbadfd.PNG width='400' height='250'/> <img src=https://user-images.githubusercontent.com/83410590/207792641-37cbe897-92c5-426b-9f6a-d40394698d3d.PNG width="400" height="250"/>
 
 
 Artificial intelligence, which has become a social issue starting with AlphaGo, is being applied to various fields with excellent development potential today.
